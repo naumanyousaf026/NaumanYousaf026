@@ -9,6 +9,37 @@
 
 </div>
 
+
+🚀 Tech Stack
+
+Frontend:
+React · Redux · Tailwind CSS · HTML5 · CSS3 · JavaScript
+
+Backend:
+Node.js · Express · Django · REST APIs · JWT · GraphQL
+
+Database:
+MongoDB · MySQL
+
+DevOps & Tools:
+Git · GitHub · Docker · AWS · Netlify
+
+🧠 Featured Projects
+
+🔹 Innobrains Company Site 
+A full-featured content management system with admin panel and drag-drop page builder.
+
+🔹 Referral System - Taptode
+A robust multi-tier referral tracking system with user rewards and analytics and marketing system.
+
+🔹 E-Commerce Platform
+An online shopping platform with user authentication, Stripe payments & admin dashboard.
+
+🔹 Call Center Website -  Voxen Pro
+A professional business website for a client’s call center, built using MERN, with a responsive layout, service pages, lead capture forms, and dynamic content management.
+
+
+
 ---
 
 ### 👨‍💻 About Me
@@ -21,5 +52,9 @@ const Nauman = {
   skills: ['JavaScript', 'React', 'Node.js', 'MongoDB', 'Django', 'Express'],
   focus: ['Admin Dashboards', 'E-commerce', 'Call Center Solutions', 'APIs'],
   currentlyLearning: ['Next.js', 'GraphQL'],
-  funFact: "I drink code for breakfast ☕"
 };
+
+📬 Let's Connect
+📧 Email: naumanyousaf026@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/nauman-yousaf-a66851245/
+💼 LinkedIn:
