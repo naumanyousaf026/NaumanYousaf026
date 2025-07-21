@@ -2,8 +2,6 @@
 
 # 👋 Hey there, I'm Nauman Yousaf  
 ### 💻 Full Stack Developer | MERN & Django Specialist
-
-[![Portfolio](https://img.shields.io/badge/Website-Innobrains.pk-2ea44f?style=for-the-badge&logo=safari&logoColor=white)](https://innobrains.pk)
 [![Email](https://img.shields.io/badge/Gmail-naumanyousaf026@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naumanyousaf026@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
